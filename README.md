@@ -2,7 +2,7 @@
 
 # Rick and Morty Api
 
-!Design preview](../rick-and-morty-api/img/readme.png)
+![Design preview](../rick-and-morty-api/img/readme.png)
 
 ## Welcome! 👋
 
