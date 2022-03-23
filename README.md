@@ -1,8 +1,8 @@
 
 
-# Frontend Mentor - Rick and Morty Api
+# Rick and Morty Api
 
-![](../rick-and-morty-api/img/readme.png)
+![Design preview](../rick-and-morty-api/img/readme.png)
 
 ## Welcome! 👋
 
